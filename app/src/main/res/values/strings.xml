@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sirasakandroid</string>
+    <string name="root_url">http://10.13.4.108:3000</string>
+    <string name="fetchdata">/show/houses</string>
+    <string name="insertdata">/add/houses</string>
+    <string name="string_car_image">Car Image Description</string>
+</resources>
